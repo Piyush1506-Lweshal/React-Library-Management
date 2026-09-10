@@ -1,0 +1,44 @@
+[{
+    "name": "Finance Data",
+    "profit": "10000000",
+    "loss": "2000000",
+    "revenue": "5000000"
+
+},
+
+{
+    "name": "Business Data",
+    "profit": "15000000",
+    "loss": "3000000",
+    "revenue": "10000000"
+},
+
+{
+    "name": "Tech Data",
+    "profit": "20000000",
+    "loss": "4000000",
+    "revenue": "15000000"
+},
+
+{
+    "name": "Healthcare Data",
+    "profit": "25000000",
+    "loss": "5000000",
+    "revenue": "20000000"
+},
+
+{
+    "name": "Retail Data",
+    "profit": "8000000",
+    "loss": "1000000",
+    "revenue": "7000000"
+},
+
+{
+    "name": "Real Estate Data",
+    "profit": "18000000",
+    "loss": "3500000",
+    "revenue": "12000000"
+}
+
+]

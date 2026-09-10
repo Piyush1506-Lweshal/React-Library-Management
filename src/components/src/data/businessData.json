@@ -1,0 +1,76 @@
+[{
+    "name": "Acme Inc.",
+    "industry": "Technology",
+    "employees": 100,
+    "location": "San Francisco, CA",
+    "Area": "IT Industries",
+    "Revenue": "$10 million",
+    "Founded": 2010,
+    "Website": "www.acme.com"
+
+},
+{
+    "name": "Globex Corporation",
+    "industry": "Manufacturing",
+    "employees": 500,
+    "location": "New York, NY",
+    "Area": "Manufacturing Industries",
+    "Revenue": "$50 million",
+    "Founded": 1995,
+    "Website": "www.globex.com"
+
+},
+{
+    "name": "Stark Industries",
+    "industry": "Defense",
+    "employees": 1000,
+    "location": "Los Angeles, CA",
+    "Area": "Defense Industries",
+    "Revenue": "$200 million",
+    "Founded": 1970,
+    "Website": "www.starkindustries.com"
+},
+{
+    "name": "Wayne Enterprises",
+    "industry": "Diversified",
+    "employees": 2000,
+    "location": "Gotham City, USA",
+    "Area": "Diversified Industries",
+    "Revenue": "$500 million",
+    "Founded": 1970,
+    "Website": "www.wayneenterprises.com"
+},
+
+{
+    "name": "Initech",
+    "industry": "Software",
+    "employees": 200,
+    "location": "Austin, TX",
+    "Area": "Software Industries",
+    "Revenue": "$20 million",
+    "Founded": 2005,
+    "Website": "www.initech.com"
+},
+
+{
+    "name": "Umbrella Corporation",
+    "industry": "Pharmaceuticals",
+    "employees": 1000,
+    "location": "Raccoon City, USA",
+    "Area": "Pharmaceutical Industries",
+    "Revenue": "$100 million",
+    "Founded": 1980,
+    "Website": "www.umbrella.com"
+},
+
+{
+    "name": "Wayne Enterprises",
+    "industry": "Diversified",
+    "employees": 2000,
+    "location": "Gotham City, USA",
+    "Area": "Diversified Industries",
+    "Revenue": "$500 million",
+    "Founded": 1970,
+    "Website": "www.wayneenterprises.com"
+}
+]
